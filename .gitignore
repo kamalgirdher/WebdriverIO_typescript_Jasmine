@@ -1,0 +1,23 @@
+# Logs
+output
+*.log
+npm-debug.log*
+packaga-lock.*
+
+# npm cache
+.npm
+.npmrc
+
+#webdriverio
+node_modules
+node_modules/
+allure-results
+allure-report
+
+#Compiled binary addons
+build/Release
+
+#Runtime-data
+pids
+*.pids*.seed
+*.pid.lock

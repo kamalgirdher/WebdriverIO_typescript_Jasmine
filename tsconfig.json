@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "target": "es6",
+        "paths": {
+            "*": [
+                "./*"
+            ],
+            "src/*": [
+                "./src/*"
+            ]
+        },
+        "types": [
+            "node",
+            "@wdio/sync",
+            "webdriverio",
+            "@wdio/jasmine-framework",
+            "@types/jasmine",
+            "wdio-intercept-service"
+        ]
+    },
+    "include": [
+        "./src/**/*.ts"
+    ],
+    "exlcude": "./node_modules"
+}
