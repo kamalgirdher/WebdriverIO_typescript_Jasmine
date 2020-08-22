@@ -28,7 +28,7 @@ npm init
 ```
 After you run **npm init** command, you'll see some prompts. You can use arrow keys for your selection. You can also run **npm init -y** to avoid these prompts and it will create a standard npm project for you. You'll see these prompts.
 
-
+```
 **WDIO Configuration Helper**
 
 ? Where is your automation backend located? On my local machine
@@ -42,6 +42,7 @@ After you run **npm init** command, you'll see some prompts. You can use arrow k
 ? Which reporter do you want to use? spec
 ? Do you want to add a service to your test setup? selenium-standalone
 ? What is the base url? http://localhost
+```
 
 **npm init** creates package.json in the directory and it allows you to install dependencies(or dev-dependencies) using CLI (command line interface).
 
