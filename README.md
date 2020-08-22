@@ -8,9 +8,10 @@
 ## Setup & Installation
 
 ** Prerequisites**
- . Download & install Microsoft VS Code.
- . Download & install NodeJS.
- . Check if node and npm installed correctly.
+
+* Download & install Microsoft VS Code.
+* Download & install NodeJS.
+* Check if node and npm installed correctly.
 In command prompt, type the command
 ```
 node -v
@@ -20,7 +21,7 @@ and see if it shows the versions of node and npm.
 
 **Project setup**
  
- . First you need to initialize a npm project
+* First you need to initialize a npm project
 ```
 mkdir webdriverio-test && cd webdriverio-test
 npm init -y
