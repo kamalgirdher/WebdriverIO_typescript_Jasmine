@@ -21,7 +21,7 @@ A TypeScript program contains:
 </details>
 
 
-<details><b><summary>Hello World! in Typescript</summary></b>
+<details><summary><b>Hello World! in Typescript</b></summary>
 <p>
 
 ```
@@ -32,7 +32,7 @@ console.log(msg)
 </details>
 
 
-<details><summary>Keywords in Typescript</summary>
+<details><summary><b>Keywords in Typescript</b></summary>
 <p>
 
 | break | as | any | switch | case | if | throw |
@@ -48,55 +48,55 @@ console.log(msg)
 </details>
 
 
-<details><summary>Types in Typescript</summary>
+<details><summary><b>Types in Typescript</b></summary>
 <p>
 </p>
 </details>
 
 
-<details><summary>Variables and Constants</summary>
+<details><summary><b>Variables and Constants</b></summary>
 <p>
 </p>
 </details>
 
 
-<details><summary>Operators</summary>
+<details><summary><b>Operators</b></summary>
 <p>
 </p>
 </details>
 
 
-<details><summary>Conditional Statements</summary>
+<details><summary><b>Conditional Statements</b></summary>
 <p>
 </p>
 </details>
 
 
-<details><summary>Loops</summary>
+<details><summary><b>Loops</b></summary>
 <p>
 </p>
 </details>
 
 
-<details><summary>Functions</summary>
+<details><summary><b>Functions</b></summary>
 <p>
 </p>
 </details>
 
 
-<details><summary>Arrays</summary>
+<details><summary><b>Arrays</b></summary>
 <p>
 </p>
 </details>
 
 
-<details><summary>Classes & Objects</summary>
+<details><summary><b>Classes & Objects</b></summary>
 <p>
 </p>
 </details>
 
 
-<details><summary>Modules</summary>
+<details><summary><b>Modules</b></summary>
 <p>
 </p>
 </details>
