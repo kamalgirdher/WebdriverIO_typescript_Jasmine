@@ -9,8 +9,8 @@ WebdriverIO is a test automation framework that allows you to run tests based on
 
 **Prerequisites**
 
-* Download & install ![Microsoft VS Code](https://code.visualstudio.com/download).
-* Download & install ![NodeJS](https://nodejs.org/en/download/).
+* Download & install [Microsoft VS Code](https://code.visualstudio.com/download).
+* Download & install [NodeJS](https://nodejs.org/en/download/).
 * Check if node and npm installed correctly.
 In command prompt, type the command
 ```
