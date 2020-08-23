@@ -36,5 +36,20 @@ console.log(msg)
 | yield | const | continue | do | catch |
 
 
+## Types in Typescript
 
+## Variables and Constants
 
+## Operators
+
+## Conditional Statements
+
+## Loops
+
+## Functions
+
+## Arrays
+
+## Classes & Objects
+
+## Modules
