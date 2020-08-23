@@ -70,6 +70,7 @@ let c: boolean = true;
 ```
 
 **any**
+
 The any data type is the super type of all types in TypeScript. It denotes a dynamic type. Using the any type is equivalent to opting out of type checking for a variable.
 
 ```
@@ -83,6 +84,57 @@ d= 'kamal';
 
 <details><summary><b>Variables and Constants</b></summary>
 <p>
+
+We have 3 keywords for this in Typescript or Javascript.
+
+| Keyword	|
+| :---: |
+| var |
+| let |
+| const |
+
+**var** declarations are globally scoped or function scoped while **let** and **const** are block scoped. var variables can be updated and re-declared within its scope; let variables can be updated but not re-declared; const variables can neither be updated nor re-declared.
+
+**without types**
+```
+var a = 'kamal';
+const b = 10;
+let c = 'kamal';
+```
+
+**with types**
+```
+var a: string = 'kamal';
+const b:number = 10;
+let c:string = 'kamal';
+```
+
+**if you don't know the type, use any**
+
+```
+let x: any;
+x='kamal';
+```
+
+#### Scope
+
+* Global Scope − Global variables are declared outside the programming constructs. These variables can be accessed from anywhere within your code.
+
+* Class Scope − These variables are also called fields. Fields or class variables are declared within the class but outside the methods. These variables can be accessed using the object of the class. Fields can also be static. Static fields can be accessed using the class name.
+
+* Local Scope − Local variables, as the name suggests, are declared within the constructs like methods, loops etc. Local variables are accessible only within the construct where they are declared.
+
+```
+var x = 12          //global variable 
+class Kamal { 
+   y = 13;             //class variable 
+   
+   testFunction():void { 
+      var z = 14;    //local variable 
+   } 
+} 
+```
+
 </p>
 </details>
 
