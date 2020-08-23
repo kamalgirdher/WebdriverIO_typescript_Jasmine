@@ -50,6 +50,33 @@ console.log(msg)
 
 <details><summary><b>Types in Typescript</b></summary>
 <p>
+TypeScript provides data types as a part of its optional Type System.
+
+**Built-in types**
+
+| Data type	| Keyword |
+| :---: | :---: | 
+| Number | number |
+| String | string |
+| Boolean | boolean |
+| Void | void |
+| Null | null |
+| Undefined | undefined |
+
+```
+let a: number = 10;
+let b: string = 'kamal';
+let c: boolean = true;
+```
+
+**any**
+The any data type is the super type of all types in TypeScript. It denotes a dynamic type. Using the any type is equivalent to opting out of type checking for a variable.
+
+```
+let d: any;
+d= 'kamal';
+```
+
 </p>
 </details>
 
