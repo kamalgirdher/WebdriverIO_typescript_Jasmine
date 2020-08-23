@@ -17,14 +17,19 @@ A TypeScript program contains:
 * Statements and Expressions
 * Comments
 
-## Hello World! in Typescript
+<details><summary>Hello World! in Typescript</summary>
+<p>
 
 ```
 const msg:string = "Hello World!" 
 console.log(msg)
 ```
+</p>
+</details>
 
-## Keywords in Typescript
+
+<details><summary>Keywords in Typescript</summary>
+<p>
 
 | break | as | any | switch | case | if | throw |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -35,8 +40,12 @@ console.log(msg)
 | let | package | implements | interface | function | new | try |
 | yield | const | continue | do | catch |
 
+</p>
+</details>
+
 
 ## Types in Typescript
+
 
 ## Variables and Constants
 
