@@ -61,3 +61,12 @@ npm i --save-dev @wdio/cli
 
 That's it! The configurator will install all required packages for you and create a config file called wdio.conf.js.
 
+
+
+## Typescript 
+
+To get some knowledge of typescript before you start working on wdio, you can refer this repo. This will give you some idea.
+
+https://github.com/kamalgirdher/TypescriptBasicsForWdio
+
+
