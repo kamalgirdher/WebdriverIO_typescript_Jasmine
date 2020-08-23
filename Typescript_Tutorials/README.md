@@ -1,6 +1,6 @@
 # Typescript
 
-<details><summary><h3>Introduction</h3></summary>
+<details><summary><b>Introduction</b></summary>
 <p>
 
 JavaScript was introduced as a language for the client side. The development of Node.js has marked JavaScript as an emerging server-side technology too. However, as JavaScript code grows, it tends to get messier, making it difficult to maintain and reuse the code. Moreover, its failure to embrace the features of Object Orientation, strong type checking and compile-time error checks prevents JavaScript from succeeding at the enterprise level as a full-fledged server-side technology. TypeScript was presented to bridge this gap.
@@ -21,7 +21,7 @@ A TypeScript program contains:
 </details>
 
 
-<details><summary><h3>Hello World! in Typescript</h3></summary>
+<details><b><summary>Hello World! in Typescript</summary></b>
 <p>
 
 ```
@@ -32,7 +32,7 @@ console.log(msg)
 </details>
 
 
-<details><summary><h3>Keywords in Typescript</h3></summary>
+<details><summary>Keywords in Typescript</summary>
 <p>
 
 | break | as | any | switch | case | if | throw |
@@ -48,55 +48,55 @@ console.log(msg)
 </details>
 
 
-<details><summary><h3>Types in Typescript</h3></summary>
+<details><summary>Types in Typescript</summary>
 <p>
 </p>
 </details>
 
 
-<details><summary><h3>Variables and Constants</h3></summary>
+<details><summary>Variables and Constants</summary>
 <p>
 </p>
 </details>
 
 
-<details><summary><h3>Operators</h3></summary>
+<details><summary>Operators</summary>
 <p>
 </p>
 </details>
 
 
-<details><summary><h3>Conditional Statements</h3></summary>
+<details><summary>Conditional Statements</summary>
 <p>
 </p>
 </details>
 
 
-<details><summary><h3>Loops</h3></summary>
+<details><summary>Loops</summary>
 <p>
 </p>
 </details>
 
 
-<details><summary><h3>Functions</h3></summary>
+<details><summary>Functions</summary>
 <p>
 </p>
 </details>
 
 
-<details><summary><h3>Arrays</h3></summary>
+<details><summary>Arrays</summary>
 <p>
 </p>
 </details>
 
 
-<details><summary><h3>Classes & Objects</h3></summary>
+<details><summary>Classes & Objects</summary>
 <p>
 </p>
 </details>
 
 
-<details><summary><h3>Modules</h3></summary>
+<details><summary>Modules</summary>
 <p>
 </p>
 </details>
