@@ -1,0 +1,1 @@
+{"version":3,"file":"page.js","sourceRoot":"","sources":["page.ts"],"names":[],"mappings":";;AAAA,MAAqB,IAAI;IAErB,IAAI;QACA,OAAO,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAA;IACxC,CAAC;CACJ;AALD,uBAKC","sourcesContent":["export default class Page {\n    \n    open () {\n        return browser.url(`config.baseUrl`)\n    }\n}\n"]}
