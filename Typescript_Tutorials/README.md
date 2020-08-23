@@ -1,12 +1,13 @@
 # Typescript
 
+<details><summary><h3>Introduction</h3></summary>
+<p>
 
-## Introduction
 JavaScript was introduced as a language for the client side. The development of Node.js has marked JavaScript as an emerging server-side technology too. However, as JavaScript code grows, it tends to get messier, making it difficult to maintain and reuse the code. Moreover, its failure to embrace the features of Object Orientation, strong type checking and compile-time error checks prevents JavaScript from succeeding at the enterprise level as a full-fledged server-side technology. TypeScript was presented to bridge this gap.
 
 Typescript is a superset of Javascript
 
-![typescript](/images/superset.png)
+![typescript](images/superset.png)
 
 
 A TypeScript program contains:
@@ -16,8 +17,11 @@ A TypeScript program contains:
 * Variables
 * Statements and Expressions
 * Comments
+</p>
+</details>
 
-<details><summary>Hello World! in Typescript</summary>
+
+<details><summary><h3>Hello World! in Typescript</h3></summary>
 <p>
 
 ```
@@ -28,7 +32,7 @@ console.log(msg)
 </details>
 
 
-<details><summary>Keywords in Typescript</summary>
+<details><summary><h3>Keywords in Typescript</h3></summary>
 <p>
 
 | break | as | any | switch | case | if | throw |
@@ -44,21 +48,56 @@ console.log(msg)
 </details>
 
 
-## Types in Typescript
+<details><summary><h3>Types in Typescript</h3></summary>
+<p>
+</p>
+</details>
 
 
-## Variables and Constants
+<details><summary><h3>Variables and Constants</h3></summary>
+<p>
+</p>
+</details>
 
-## Operators
 
-## Conditional Statements
+<details><summary><h3>Operators</h3></summary>
+<p>
+</p>
+</details>
 
-## Loops
 
-## Functions
+<details><summary><h3>Conditional Statements</h3></summary>
+<p>
+</p>
+</details>
 
-## Arrays
 
-## Classes & Objects
+<details><summary><h3>Loops</h3></summary>
+<p>
+</p>
+</details>
 
-## Modules
+
+<details><summary><h3>Functions</h3></summary>
+<p>
+</p>
+</details>
+
+
+<details><summary><h3>Arrays</h3></summary>
+<p>
+</p>
+</details>
+
+
+<details><summary><h3>Classes & Objects</h3></summary>
+<p>
+</p>
+</details>
+
+
+<details><summary><h3>Modules</h3></summary>
+<p>
+</p>
+</details>
+
