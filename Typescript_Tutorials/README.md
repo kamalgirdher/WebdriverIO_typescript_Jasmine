@@ -27,7 +27,7 @@ console.log(msg)
 ## Keywords in Typescript
 
 | break | as | any | switch | case | if | throw |
-|-------|-------|-------|-------|-------|-------|-------|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | else | var | number | string | get | module | type |
 | instanceof | typeof | public | private | enum | export | finally |
 | for | while | void | null | super | this | new |
